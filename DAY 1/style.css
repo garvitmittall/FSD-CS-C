@@ -1,23 +1,22 @@
 *{
-    margin: 0px;
+    margin:0px;
     padding: 0px;
     box-sizing: border-box;
 }
-#reg-form
-{
+#reg-form{
     display: flex;
     justify-content: center;
+   
 }
-#heading
-{
- background-color: green;
- font-size: 60px;
- text-align: center;
- border: 10px solid red;
-}
- table /* not take hashtag bz its not a id so */
-{
-    background-color: green;
- font-size: 40px;
- border: 10px solid red;
-}
+    
+#heading{
+    background-color: blanchedalmond;
+    font-size:20px;
+    text-align: center;
+    border: 2px solid blue;
+}   
+ table{
+    background-color: yellowgreen;
+    font: size 20px;
+    border:3px solid red;
+ }
